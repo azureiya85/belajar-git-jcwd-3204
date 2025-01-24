@@ -21,7 +21,7 @@ let reversedWord = "";
 const reversed = word.split("").reverse().join("");
 const isPalindrome = word === reversed;
 
-console.log(isPalindrome ? "Palindrome" : "Not a Palindrome");
+console.log(isPalindrome ? "Palindrome" : "Bukan Palindrome");
 
 // Write a code to convert cm to km. Example: 1000 cm = 1 km
 
